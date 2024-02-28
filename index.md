@@ -42,6 +42,7 @@ software build process.
 
 ### 🧪 Testing & analysis
 
+- [Test with GTest via Conan](/gtest-conan/)
 - [Test with GTest via CPM](/gtest-cpm/)
 - [Test with CTest via CPM](/unity-cpm/)
 - [Test with Boost.Test via CPM](/boost-test-cpm/)
