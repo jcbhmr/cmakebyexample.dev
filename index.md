@@ -2,10 +2,7 @@
 titleTemplate: false
 ---
 
-<b>CMake by Example</b> is a hands-on introduction to CMake using annotated
-example projects. Get started with [the hello world example](/executable/) or click on any of
-the links below. You are encouraged to copy-paste bits from these examples into
-your own projects as needed.
+<b>CMake by Example</b> is a hands-on introduction to CMake using annotated example projects. Get started with [the hello world example](/build-executable/) or click on any of the links below. You are encouraged to copy-paste bits from these examples into your own projects as needed.
 
 [CMake](https://cmake.org/) is the de-facto standard for building C++ code, with over 2 million downloads a month. It’s a powerful, comprehensive solution for managing the software build process.
 
