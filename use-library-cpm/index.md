@@ -29,12 +29,12 @@ include(cmake/CPM.cmake)
 CPMAddPackage(...)
 ```
 
-> -   **Small and reusable projects** CPM takes care of all project dependencies, allowing developers to focus on creating small, well-tested libraries.
-> -   **Cross-Platform** CPM adds projects directly at the configure stage and is compatible with all CMake toolchains and generators.
-> -   **Reproducible builds** By versioning dependencies via git commits or tags it is ensured that a project will always be buildable.
-> -   **Recursive dependencies** Ensures that no dependency is added twice and all are added in the minimum required version.
-> -   **Plug-and-play** No need to install anything. Just add the script to your project and you're good to go.
-> -   **No packaging required** Simply add all external sources as a dependency.
-> -   **Simple source distribution** CPM makes including projects with source files and dependencies easy, reducing the need for monolithic header files or git submodules.
+> - **Small and reusable projects** CPM takes care of all project dependencies, allowing developers to focus on creating small, well-tested libraries.
+> - **Cross-Platform** CPM adds projects directly at the configure stage and is compatible with all CMake toolchains and generators.
+> - **Reproducible builds** By versioning dependencies via git commits or tags it is ensured that a project will always be buildable.
+> - **Recursive dependencies** Ensures that no dependency is added twice and all are added in the minimum required version.
+> - **Plug-and-play** No need to install anything. Just add the script to your project and you're good to go.
+> - **No packaging required** Simply add all external sources as a dependency.
+> - **Simple source distribution** CPM makes including projects with source files and dependencies easy, reducing the need for monolithic header files or git submodules.
 
 &mdash; [CPM.cmake | GitHub](https://github.com/cpm-cmake/CPM.cmake)
